@@ -1,4 +1,8 @@
 ---
+genres:
+  - puzzle
+  - strategy
+  - platformer
 post: https://github.com/chainsawteam-org/js13kgames2026-nimbus/blob/competition-2026/workfiles/release/post-mortem.md
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
